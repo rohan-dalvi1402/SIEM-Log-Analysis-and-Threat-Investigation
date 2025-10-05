@@ -11,14 +11,14 @@ The project aimed to investigate a suspected data breach within WidgetCo’s env
 - Proficiency in analysing and interpreting logs.
 - Ability to generate and recognise attack signatures and patterns.
 - Development of critical thinking and problem-solving skills in cybersecurity.
-- Visualisation of geolocation anomalies and privileged access
-- Development of detection dashboards for MFA and geo-anomalies
+- Visualisation of geolocation anomalies and privileged access.
+- Development of detection dashboards for MFA and geo-anomalies.
 
 ### Tools Used
 
-- Splunk Enterprise – log ingestion, correlation, and visualization
-- iplocation command – to geolocate IP addresses and confirm anomalies
-- Datasets analyzed:
+- Splunk Enterprise – log ingestion, correlation and visualisation.
+- iplocation command – to geolocate IP addresses and confirm anomalies.
+- Datasets analysed:
     - MFA.csv
     - VPN.csv
     - Cloud.csv
