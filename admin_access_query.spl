@@ -1,0 +1,4 @@
+index=final* source IN ("MFA.csv", "ITAdmin.csv")
+| search "IP Address"="180.76.54.93"
+| table Date Time Username Application Result "IP Address"
+| sort Date Time
