@@ -1,0 +1,4 @@
+index=final* source="MFA.csv"
+| iplocation "IP Address"
+| table "IP Address" City Region Country
+| dedup "IP Address"
