@@ -1,1 +1,3 @@
-
+index=final* source="MFA.csv" "Authentication Method"="Bypass"
+| table Date Time "IP Address" Username Application Result
+| sort "IP Address", Date, Time
