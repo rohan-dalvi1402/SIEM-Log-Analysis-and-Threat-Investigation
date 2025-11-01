@@ -1,0 +1,4 @@
+index=final* source IN ("VPN.csv", "Cloud.csv")
+| search Username="DDDXUB"
+| table Date Time Username "IP Address" Application Result
+| sort Date Time
