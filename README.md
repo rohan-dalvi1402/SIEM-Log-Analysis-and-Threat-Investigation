@@ -89,6 +89,15 @@ index=final* source IN ("MFA.csv", "ITAdmin.csv")
   <p><em>Fig 5: IT Admin Portal Access Records</em></p>
 </div>
 
+## Dashboards
+
+### Security Breach Dashboard
+Provides a consolidated view of confirmed breach activity, highlighting repeated unauthorised access attempts to critical systems and identifying the primary malicious IP involved in the attack.
+
+### Suspicion Confirmation Dashboard
+Validates suspicious behaviour through geolocation analysis, clearly distinguishing legitimate user activity from foreign-based access that confirmed credential compromise.
+
+
 ## Outcome
 The Splunk analysis confirmed a successful MFA bypass and privileged access from IP 180.76.54.93 (China) using the stolen credentials of user DDDXUB.
 By combining MFA, Cloud, VPN and ITAdmin logs, the investigation proved:
