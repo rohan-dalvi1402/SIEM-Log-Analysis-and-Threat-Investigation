@@ -102,6 +102,10 @@ Provides a consolidated view of confirmed breach activity, highlighting repeated
 ### Suspicion Confirmation Dashboard
 Validates suspicious behaviour through geolocation analysis, clearly distinguishing legitimate user activity from foreign-based access that confirmed credential compromise.
 
+<div align="center">
+  <img width="1907" height="662" alt="Suspicion Confirmation" src="https://github.com/user-attachments/assets/1379f290-ff07-448f-878a-943747c83366" />
+  <p><em>Fig 7. Suspicion Confirmation Dashboard – Geolocation Analysis</em></p>
+</div>
 
 ## Outcome
 The Splunk analysis confirmed a successful MFA bypass and privileged access from IP 180.76.54.93 (China) using the stolen credentials of user DDDXUB.
