@@ -94,6 +94,11 @@ index=final* source IN ("MFA.csv", "ITAdmin.csv")
 ### Security Breach Dashboard
 Provides a consolidated view of confirmed breach activity, highlighting repeated unauthorised access attempts to critical systems and identifying the primary malicious IP involved in the attack.
 
+<div align="center">
+  <img width="1880" height="980" alt="Security Breach" src="https://github.com/user-attachments/assets/d27dd203-db03-4cae-b407-29ea771b0183" />
+  <p><em>Fig 6. Security Breach Dashboard – IT Admin Portal Access</em></p>
+</div>
+
 ### Suspicion Confirmation Dashboard
 Validates suspicious behaviour through geolocation analysis, clearly distinguishing legitimate user activity from foreign-based access that confirmed credential compromise.
 
